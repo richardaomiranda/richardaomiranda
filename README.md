@@ -4,7 +4,7 @@ Estudante de javaScript. :)
 
 **Sobre mim**
 
-23 anos, estudante de javaScript na EBAC. Visando ingressar na carreira, me especializar em javaScript e outra linguagens.
+23 anos, estudante de javaScript na EBAC. Visando ingressar na carreira, me especializar em javaScript e outras linguagens.
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
